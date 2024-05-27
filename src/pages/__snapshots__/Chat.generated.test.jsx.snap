@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Chat> should render component 1`] = `
+<div
+  className="sc-beySPh fwoYfh"
+>
+  <div
+    className="container"
+  />
+</div>
+`;

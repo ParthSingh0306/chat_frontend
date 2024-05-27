@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Register> should render component 1`] = `
+<div
+  className="sc-beySPh fEZILm"
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <div
+      className="brand"
+    >
+      <img
+        alt="Logo"
+        src="logo.svg"
+      />
+      <h1>
+        Snappy
+      </h1>
+    </div>
+    <input
+      name="username"
+      onChange={[Function]}
+      placeholder="Username"
+      required={true}
+      type="text"
+    />
+    <input
+      name="email"
+      onChange={[Function]}
+      placeholder="Email"
+      required={true}
+      type="email"
+    />
+    <input
+      name="password"
+      onChange={[Function]}
+      placeholder="Password"
+      required={true}
+      type="password"
+    />
+    <input
+      name="confirmPassword"
+      onChange={[Function]}
+      placeholder="Confirm Password"
+      required={true}
+      type="password"
+    />
+    <button
+      type="submit"
+    >
+      Create User
+    </button>
+    <span>
+      Already have an Account? 
+       
+    </span>
+  </form>
+</div>
+`;
